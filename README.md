@@ -1,2 +1,1 @@
-# genius-game
- 
+<h6> Nesse projeto, o desafio foi criado um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions. <h6/>
